@@ -1,0 +1,14 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Margherita Test",
+      "description": "Tomato sauce, mozzarella, and basil"
+    },
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "description": "Tomato sauce, mozzarella, and pepperoni"
+    }
+  ]
+}
